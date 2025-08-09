@@ -180,14 +180,4 @@ From `package.json`. 【turn1file4†repomix-output-saicheboina-BlockChain_Fund_
 - Add unit tests and E2E
 - Add CI for lint/build/preview
 
----
 
-## 📜 License
-
-No license file detected. Consider adding `LICENSE` (e.g., MIT).
-
----
-
-## 🙌 Credits
-
-Built with Vite + React, Tailwind + shadcn/ui. Project wiring and routes visible in `src/App.jsx`. 【turn1file8†repomix-output-saicheboina-BlockChain_Fund_Raise.md†L58-L75】
